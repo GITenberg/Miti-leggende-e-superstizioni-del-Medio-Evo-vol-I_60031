@@ -1,0 +1,32 @@
+_repo: Miti-leggende-e-superstizioni-del-Medio-Evo-vol-I_60031
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graf, Arturo
+    birthdate: 1848
+    deathdate: 1913
+    gutenberg_agent_id: '50750'
+    url: http://www.gutenberg.org/2009/agents/50750
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arturo_Graf
+    - https://it.wikipedia.org/wiki/Arturo_Graf
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60031'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Superstition'
+- !lcc 'BR'
+- !lcsh 'Paradise'
+- !lcsh 'Tales, Medieval'
+- !lcsh 'Christian legends'
+- GITenberg
+tableOfContents: Il mito del paradiso terrestre -- Il riposo dei dannati -- La credenza
+  nella fatalità.
+title: Miti, leggende e superstizioni del Medio Evo, vol. I
+url: http://www.gutenberg.org/ebooks/60031
